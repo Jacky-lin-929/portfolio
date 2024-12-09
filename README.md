@@ -5,4 +5,4 @@
 4. You can send me a message at the contact seciton
 5. For the protfolio section, the different photos can be selected and have a closer look. Also you can click on the differet tags and see different catagories of my photos
 
-__I create the website with help from BOOTRAP__
+__I create the website with help from BOOSTRAP__
